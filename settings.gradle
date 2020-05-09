@@ -1,0 +1,6 @@
+rootProject.name='AndroidModuleVariantsDemo'
+include ':app'
+include ':module_a'
+include ':lib_common'
+include ':module_b'
+include ':module_main'
